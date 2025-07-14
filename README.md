@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello I'm a beginner in programming<br>  - Studying HTML  and CSS and JavaScript</p>
+<p align="left">Hello, welcome!<br>  - Software Engineering Student 👽</p>
 
 ###
 
